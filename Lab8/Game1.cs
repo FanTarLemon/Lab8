@@ -10,6 +10,7 @@ namespace Lab8
         private SpriteBatch _spriteBatch;
         Vector2 _position;
         //Gameplay
+        //Test 2
 
         public Game1()
         {
